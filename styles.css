@@ -895,6 +895,12 @@ top: 204px;
 
 }
 
+.poster img {
+
+ width: 100%;
+ height: auto;
+}
+
 .problem {
 
 position: absolute;
