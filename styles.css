@@ -888,18 +888,13 @@ top: 22px;
 
 
 position: absolute;
-width: 1473px;
+width: 100%;
 height: auto;
 left: 0px;
 top: 204px;
 
 }
 
-.poster img {
-
- width: 100%;
- height: auto;
-}
 
 .problem {
 
